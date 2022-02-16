@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Assignment: Solutions for Problem Set 5 [Falling rod]'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-modeling-dynamics-and-control-ii-spring-2003/e308ef6f80b02609f98f3bacf053c0be_ps5_spring03_sol.pdf
+file: /media/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/e308ef6f80b02609f98f3bacf053c0be_ps5_spring03_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps5_spring03_sol.pdf
 uid: e308ef6f-80b0-2609-f98f-3bacf053c0be

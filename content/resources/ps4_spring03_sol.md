@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to Problem Set No. 4
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-modeling-dynamics-and-control-ii-spring-2003/2537b84fed21aecfc2b8eefbb5030661_ps4_spring03_sol.pdf
+file: /media/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/2537b84fed21aecfc2b8eefbb5030661_ps4_spring03_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps4_spring03_sol.pdf
 uid: 2537b84f-ed21-aecf-c2b8-eefbb5030661

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Pre-Lab Exercise for Experiment 5
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-modeling-dynamics-and-control-ii-spring-2003/5554cb9947975642f175dd448ecac867_Prelab5.pdf
+file: /media/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/5554cb9947975642f175dd448ecac867_Prelab5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: Prelab5.pdf
 uid: 5554cb99-4797-5642-f175-dd448ecac867

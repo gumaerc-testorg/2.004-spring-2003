@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem Set No. 3
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-modeling-dynamics-and-control-ii-spring-2003/69e0eef21b4dab5a8a0a2986651426ba_ps3_spring03.pdf
+file: /media/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/69e0eef21b4dab5a8a0a2986651426ba_ps3_spring03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3_spring03.pdf
 uid: 69e0eef2-1b4d-ab5a-8a0a-2986651426ba
