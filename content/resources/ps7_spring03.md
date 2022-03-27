@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1d74878-54e8-eb22-7c7b-9b71702b615e
 resourcetype: Document
 title: ps7_spring03.pdf
 uid: af78d818-82a5-5c34-a09a-02c5377ee7e1

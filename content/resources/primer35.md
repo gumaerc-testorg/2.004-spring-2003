@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 73890816-4ee0-9fe8-3874-cf121c84b3f8
 resourcetype: Document
 title: primer35.pdf
 uid: 170e944b-981a-74c1-40ee-d664c951ce34

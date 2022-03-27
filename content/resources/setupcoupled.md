@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 73890816-4ee0-9fe8-3874-cf121c84b3f8
 resourcetype: Document
 title: setupcoupled.pdf
 uid: 6576029f-4c17-b081-9bcf-5a8d4215bbd0
