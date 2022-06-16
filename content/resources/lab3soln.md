@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lab 3: Rod Pendulum: Rigid Body Dynamics.
 
   Solutions'
-file: /media/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/1cbae2607f3c1f7ee7b9def25afb833a_Lab3Soln.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/1cbae2607f3c1f7ee7b9def25afb833a_Lab3Soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -15,3 +15,6 @@ resourcetype: Document
 title: Lab3Soln.pdf
 uid: 1cbae260-7f3c-1f7e-e7b9-def25afb833a
 ---
+Lab 3: Rod Pendulum: Rigid Body Dynamics.
+Solutions
+
