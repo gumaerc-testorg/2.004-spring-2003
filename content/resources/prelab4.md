@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ab1ba75d76cd20
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Prelab4.pdf
 uid: ab1ba75d-76cd-20ed-1596-4fe12b009d6e
 ---
 Pre-Lab Exercise for Experiment 4 [Rockers]
-

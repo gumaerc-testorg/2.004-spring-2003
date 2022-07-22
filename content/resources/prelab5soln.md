@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/64e0b8c360cc75
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PreLab5Soln.pdf
 uid: 64e0b8c3-60cc-7570-f891-fb81d25f08f6
 ---
 Pre-Lab Exercise for Experiment 7 [Solutions]
-

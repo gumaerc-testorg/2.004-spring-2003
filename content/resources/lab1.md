@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/fa5b879fa318f6
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lab1.pdf
 uid: fa5b879f-a318-f651-8833-7779935f4236
 ---
 Experiment 1: MATLAB tutorial
-

@@ -6,6 +6,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/9b9eb2fa4ab555
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: setupfourth.pdf
 uid: 9b9eb2fa-4ab5-55b7-ccbf-4670969fed7f
 ---
 Lab Setup: 4th Order Spring-Mass-Damper Lab -- Used holes in the Optical Plate
-

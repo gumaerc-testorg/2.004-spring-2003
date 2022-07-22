@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/394433431151a8
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lab_Syllabus.pdf
 uid: 39443343-1151-a81e-3077-64c5cd5d3339
 ---
 Laboratory Syllabus
-

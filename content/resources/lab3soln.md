@@ -7,6 +7,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/1cbae2607f3c1f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 1cbae260-7f3c-1f7e-e7b9-def25afb833a
 ---
 Lab 3: Rod Pendulum: Rigid Body Dynamics.
 Solutions
-

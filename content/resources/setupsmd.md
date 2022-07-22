@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/b65b0c372de3cd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: setupsmd.pdf
 uid: b65b0c37-2de3-cd7d-8edd-036db544fc54
 ---
 Lab Setup: Spring-Mass-Damper Lab -- Used holes in the Optical Plate
-

@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/099594aaf820fc
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Prelab1.pdf
 uid: 099594aa-f820-fc2d-04dd-b250f7db1da5
 ---
 Pre-Lab Exercise for Experiment 1
-

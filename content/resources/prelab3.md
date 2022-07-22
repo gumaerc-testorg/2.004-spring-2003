@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/aefb5480155b7f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Prelab3.pdf
 uid: aefb5480-155b-7f8f-dd19-fc9c411e92d1
 ---
 Pre-Lab Exercise for Experiment 3 [Rod Pendulum]
-

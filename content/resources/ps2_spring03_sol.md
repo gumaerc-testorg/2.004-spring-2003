@@ -6,6 +6,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/c378095fc23cc6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps2_spring03_sol.pdf
 uid: c378095f-c23c-c6d4-cfef-b4e42c592d00
 ---
 Solutions to Problem Set No. 2: Impact of vehicles with shock absorbers. Impacts between two blocks and a stationary wall. Catching a bullet with a pendulum.
-

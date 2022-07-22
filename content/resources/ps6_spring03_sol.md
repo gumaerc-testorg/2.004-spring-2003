@@ -6,6 +6,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/b48581df17c5c4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps6_spring03_sol.pdf
 uid: b48581df-17c5-c4dc-b988-9055910996b4
 ---
 Solutions for Problem Set 6: Rod sliding down wall. Unbalanced disk rolls down incline. Mechanical model of a tightrope walker.
-

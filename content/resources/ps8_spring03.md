@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/c4b091317ef523
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps8_spring03.pdf
 uid: c4b09131-7ef5-23c1-4ccd-30ec66519705
 ---
 Problem Set No. 8 [Torsional vibration. Crane dynamics]
-

@@ -6,6 +6,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ecb572a9ce60f6
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Prelab6.pdf
 uid: ecb572a9-ce60-f63e-84c9-1d7e079e5a6b
 ---
 Pre-Lab Exercise for Experiment 6 [Basic Control: 2nd Order System I: Kinematics, vibrational modes, & control]
-

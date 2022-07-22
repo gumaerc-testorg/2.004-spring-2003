@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/654b8cd58bfe96
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lab5.pdf
 uid: 654b8cd5-8bfe-9622-71be-980811215641
 ---
 Experiment 5: MatLab Tutorial : Control Toolbox
-

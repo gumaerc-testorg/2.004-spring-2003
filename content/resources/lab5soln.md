@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/4a4bccdcd299ff
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lab5Soln.pdf
 uid: 4a4bccdc-d299-ff57-a935-c5dda51ff9f9
 ---
 Lab 7 Solutions
-

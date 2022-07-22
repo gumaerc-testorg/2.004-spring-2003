@@ -5,6 +5,7 @@ file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ededd0519b366f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Prelab2.pdf
 uid: ededd051-9b36-6f19-0b7e-ddf5cd3df43c
 ---
 Pre-Lab Exercise for Experiment 2 [Collision]
-
