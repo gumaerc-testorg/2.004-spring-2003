@@ -2,6 +2,7 @@
 content_type: resource
 description: Pre-Lab Exercise for Experiment 4 [Rockers]
 file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ab1ba75d76cd20ed15964fe12b009d6e_Prelab4.pdf
+file_size: 95785
 file_type: application/pdf
 learning_resource_types:
 - Labs

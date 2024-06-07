@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to Problem Set No. 4
 file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/2537b84fed21aecfc2b8eefbb5030661_ps4_spring03_sol.pdf
+file_size: 1470956
 file_type: application/pdf
 learning_resource_types:
 - Assignments
