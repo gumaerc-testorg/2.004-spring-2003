@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Experiment 6: Basic Control: 2nd Order System I: Kinematics, vibrational
   modes, & control'
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/f593ea4d4fc982eef5596527a00713b7_Lab6.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/f593ea4d4fc982eef5596527a00713b7_Lab6.pdf
 file_size: 113107
 file_type: application/pdf
 learning_resource_types:

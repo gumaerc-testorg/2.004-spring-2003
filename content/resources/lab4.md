@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Experiment 4: Rockers: Rigid body dynamics II'
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/642235200949ba9862b838f16435c7ba_Lab4.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/642235200949ba9862b838f16435c7ba_Lab4.pdf
 file_size: 82693
 file_type: application/pdf
 learning_resource_types:
