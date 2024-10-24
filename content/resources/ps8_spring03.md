@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set No. 8 [Torsional vibration. Crane dynamics]
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/c4b091317ef523c14ccd30ec66519705_ps8_spring03.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/c4b091317ef523c14ccd30ec66519705_ps8_spring03.pdf
 file_size: 152047
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab 7 Solutions
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/4a4bccdcd299ff57a935c5dda51ff9f9_Lab5Soln.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/4a4bccdcd299ff57a935c5dda51ff9f9_Lab5Soln.pdf
 file_size: 421871
 file_type: application/pdf
 learning_resource_types:

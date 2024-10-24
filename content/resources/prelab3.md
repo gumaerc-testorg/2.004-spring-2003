@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pre-Lab Exercise for Experiment 3 [Rod Pendulum]
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/aefb5480155b7f8fdd19fc9c411e92d1_Prelab3.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/aefb5480155b7f8fdd19fc9c411e92d1_Prelab3.pdf
 file_size: 140212
 file_type: application/pdf
 learning_resource_types:

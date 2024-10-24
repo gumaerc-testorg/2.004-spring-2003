@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Pre-Lab Exercise for Experiment 6 [Basic Control: 2nd Order System I:
   Kinematics, vibrational modes, & control]'
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ecb572a9ce60f63e84c91d7e079e5a6b_Prelab6.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ecb572a9ce60f63e84c91d7e079e5a6b_Prelab6.pdf
 file_size: 115683
 file_type: application/pdf
 learning_resource_types:

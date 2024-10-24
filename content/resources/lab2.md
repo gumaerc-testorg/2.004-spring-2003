@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Experiment 2: Collision, momentum transfer, & coefficient of restitution'
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/33b9f2e71012d7d4ddbc49e316611020_Lab2.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/33b9f2e71012d7d4ddbc49e316611020_Lab2.pdf
 file_size: 88728
 file_type: application/pdf
 learning_resource_types:
