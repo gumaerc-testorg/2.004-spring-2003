@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab Setup: 4th Order Spring-Mass-Damper Lab -- Used holes in the Optical
   Plate'
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/9b9eb2fa4ab555b7ccbf4670969fed7f_setupfourth.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/9b9eb2fa4ab555b7ccbf4670969fed7f_setupfourth.pdf
 file_size: 170230
 file_type: application/pdf
 learning_resource_types:

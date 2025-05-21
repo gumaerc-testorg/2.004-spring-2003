@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lab Setup: Spring-Mass-Damper Lab -- Used holes in the Optical Plate'
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/b65b0c372de3cd7d8edd036db544fc54_setupsmd.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/b65b0c372de3cd7d8edd036db544fc54_setupsmd.pdf
 file_size: 188848
 file_type: application/pdf
 learning_resource_types:

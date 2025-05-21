@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Problem Set No. 6: Rod sliding down wall. Unbalanced disk rolls down
   incline. Mechanical model of a tightrope walker.'
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/19b89087186fa9e75ec0145b299752da_ps6_spring03.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/19b89087186fa9e75ec0145b299752da_ps6_spring03.pdf
 file_size: 90650
 file_type: application/pdf
 learning_resource_types:

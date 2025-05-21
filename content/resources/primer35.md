@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB Primer, Second Edition
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/170e944b981a74c140eed664c951ce34_primer35.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/170e944b981a74c140eed664c951ce34_primer35.pdf
 file_size: 218731
 file_type: application/pdf
 learning_resource_types:
