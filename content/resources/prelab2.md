@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pre-Lab Exercise for Experiment 2 [Collision]
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ededd0519b366f190b7eddf5cd3df43c_Prelab2.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/ededd0519b366f190b7eddf5cd3df43c_Prelab2.pdf
 file_size: 66400
 file_type: application/pdf
 learning_resource_types:

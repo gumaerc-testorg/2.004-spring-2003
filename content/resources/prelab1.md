@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pre-Lab Exercise for Experiment 1
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/099594aaf820fc2d04ddb250f7db1da5_Prelab1.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/099594aaf820fc2d04ddb250f7db1da5_Prelab1.pdf
 file_size: 63158
 file_type: application/pdf
 learning_resource_types:

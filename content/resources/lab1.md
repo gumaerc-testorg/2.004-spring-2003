@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Experiment 1: MATLAB tutorial'
-file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/fa5b879fa318f65188337779935f4236_Lab1.pdf
+file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/fa5b879fa318f65188337779935f4236_Lab1.pdf
 file_size: 101949
 file_type: application/pdf
 learning_resource_types:
