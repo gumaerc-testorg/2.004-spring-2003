@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment: Problem Set No. 5 [Falling rod]'
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/aef029a495dc233f4035f1698edd5fa8_ps5_spring03.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/aef029a495dc233f4035f1698edd5fa8_ps5_spring03.pdf
 file_size: 121502
 file_type: application/pdf
 learning_resource_types:
