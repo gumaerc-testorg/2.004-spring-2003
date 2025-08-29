@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set No.1
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/213228f3db8987f124e87906b965a29a_ps1_spring03.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/213228f3db8987f124e87906b965a29a_ps1_spring03.pdf
 file_size: 115013
 file_type: application/pdf
 learning_resource_types:
