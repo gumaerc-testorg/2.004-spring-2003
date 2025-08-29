@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Pre-Lab Exercise for Experiment 5
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/5554cb9947975642f175dd448ecac867_Prelab5.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/5554cb9947975642f175dd448ecac867_Prelab5.pdf
 file_size: 104616
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

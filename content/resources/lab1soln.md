@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Experiment 1: Solutions'
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/51c5a18d794b514f532733045c9aa97c_Lab1Soln.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/51c5a18d794b514f532733045c9aa97c_Lab1Soln.pdf
 file_size: 278135
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Laboratory Syllabus
-file: /courses/2-004-modeling-dynamics-and-control-ii-spring-2003/394433431151a81e307764c5cd5d3339_Lab_Syllabus.pdf
+file: /ol-ocw-studio-app/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/394433431151a81e307764c5cd5d3339_Lab_Syllabus.pdf
 file_size: 85935
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
